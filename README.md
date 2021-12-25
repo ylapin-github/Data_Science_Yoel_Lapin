@@ -2,11 +2,22 @@
 Projects submitted during the Data Science and Business Analytics Post Graduate Diploma Studies – The University of Texas at Austin 
 
 
-COURSE PROJECTS
+COURSE PROJECTS   - Visible to public  
+
+Dec'21
+Car Insurance
+Data Visualization in Tableau
+
+Final view:
+
+Students should publish a Tableau Dashboard on Tableau Public
+The end-product must be a Story
+There is no maximum limit on the number of pages or a combination of dashboards pages used for the story if it is relevant to the story
+
+
 Oct'21
 
 AllLifeBank Customer Segmentation
-Visible to public
 Course Unsupervised Learning
 
 AllLife Bank wants to expand its credit card customer base by targeting new customers and upsell to existing customers, to do so they want to identify different segment of customers that exist in data.
