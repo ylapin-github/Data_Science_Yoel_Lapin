@@ -4,8 +4,8 @@ Projects submitted during the Data Science and Business Analytics Post Graduate 
 
 COURSE PROJECTS   - Visible to public  
 
-Dec'21
-Car Insurance
+Dec'21    
+Car Insurance  
 Data Visualization in Tableau
 
 Final view:
