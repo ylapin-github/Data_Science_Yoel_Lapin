@@ -14,7 +14,7 @@ Students should publish a Tableau Dashboard on Tableau Public
 The end-product must be a Story
 There is no maximum limit on the number of pages or a combination of dashboards pages used for the story if it is relevant to the story
 
-
+    
 Oct'21
 
 AllLifeBank Customer Segmentation
@@ -26,7 +26,7 @@ Skills and Tools
 
 EDA, Kmeans Clustering, Hierarchical Clustering
 
-
+    
 Sep'21
 
 CreditCard users churn prediction
@@ -38,7 +38,7 @@ Skills and Tools
 
 up and downsampling, regularization, hyperparameter tuning
 
-
+    
 Aug'21
 
 Travel Package Purchase Prediction
@@ -50,7 +50,7 @@ Skills and Tools
 
 EDA, Data Preprocessing, Customer Profiling, Bagging Classifiers - Bagging and Random Forest, Boosting Classifier - AdaBoost, Gradient Boosting and XGBoost, Stacking Classifier, Hyperparameter Tuning using GridSearchCV and Business Recommendations
 
-
+   
 Jul'21
 
 AllLifeBank Personal Loan Campaign Modelling
@@ -61,7 +61,7 @@ AllLifeBank dataset was used to build a model that will help the marketing depar
 Skills and Tools
 
 Logistic regression, multicollinearity, finding optimal threshold using AUC-ROC curve, Decision trees, pruning
-
+    
 
 Jul'21
 
@@ -74,7 +74,7 @@ Skills and Tools
 
 EDA, Linear regression, Linear regression assumptions, business insights and suggestions
 
-
+   
 Jun'21
 
 E-news Express Project
@@ -86,7 +86,7 @@ Skills and Tools
 
 Hypothesis Testing, a/b testing, Data Visualization, Statistical Inference
 
-
+    
 May'21
 
 Cardio Fitness Product Analysis using Python
